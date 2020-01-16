@@ -24,6 +24,8 @@ h1 {
     border-bottom: 0.1em solid white;
     padding-bottom: 0.2em;
     width: fit-content;
+    width: -moz-fit-content;
+    font-weight: 700;
 }
 
 #home {
@@ -49,3 +51,30 @@ h1 {
 .k {
     color: #223c88;
 }
+#mission {
+    background-color:#FFE964;
+    color: black;
+    padding: 2em 5em 4em 5em;
+    text-align: center;
+}
+h3{
+    padding-top: 0em;
+    font-size:3em;
+    font-weight: 900;
+
+}
+#mission p{
+    padding: 0em 10em;
+
+}
+#aboutus {
+    
+    color: black;
+    padding: 2em 15em 4em 15em;
+    text-align: left;
+   
+
+}
+ /* #aboutus p{
+    padding: 0em 10em; 
+}  */
