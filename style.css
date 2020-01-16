@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    width: 80%;
+    margin: 0 auto;
+    font-family: "Roboto";
+}
+
+header {
+    text-align: center;
+}
+
+nav a {
+    margin: 0 2em;
+    text-decoration: none;
+    color: black;
+}
+
+h1 {
+    font-size: 3em;
+    margin-left: 3em;
+    border-bottom: 0.1em solid white;
+    padding-bottom: 0.2em;
+    width: fit-content;
+}
+
+#home {
+    color: white;
+    background-image: url('img/banner.jpg');
+    background-position: center;
+    background-size: 80em;
+    padding: 5em;
+}
+
+/* .underlined {
+    text-decoration: underline;
+} */
+
+.b {
+    color: #ffe964;
+}
+
+.i {
+    color: #ff523d;
+}
+
+.k {
+    color: #223c88;
+}
