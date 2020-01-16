@@ -10,6 +10,11 @@ body {
 
 header {
     text-align: center;
+    height: 2em;
+}
+
+nav{
+    margin: 1em 0;
 }
 
 nav a {
@@ -72,9 +77,23 @@ h3{
     color: black;
     padding: 2em 15em 4em 15em;
     text-align: left;
-   
-
 }
- /* #aboutus p{
-    padding: 0em 10em; 
-}  */
+#ourteam {
+    background-color: #FF523D;
+    color: #ffffff;
+    padding: 2em 15em 4em 15em;
+    text-align: left;
+}
+#ourteam p{
+    text-align: center;
+}
+#ourteam img{
+    margin: 2em auto;
+    width: 150px;
+    display: block;
+}
+#contact {
+    background-color: #223C88;
+    color: #ffffff;
+    padding: 2em 15em 4em 15em;
+    text-align: left;  
